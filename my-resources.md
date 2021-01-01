@@ -204,5 +204,5 @@ That will help me not just to learn more but also will help me build my tech voc
 
 ## Open-Source
 
--[Open-Source Friday](https://opensourcefriday.com/)
+- [Open-Source Friday](https://opensourcefriday.com/)
 
