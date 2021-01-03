@@ -3,20 +3,53 @@
 This is a list of resources I found that I think are useful. Also this is my attempt to reduce the amount of tabs open.
 Another thing that I'm trying to achieve here is to make a map of the tech vocabulary.
 
-## Documentation
+## Table of Contents
 
-### DOM
+1. [DOM](#Dom)
+2. [Git/Github](#Git/GitHub)
+3. [HTML](#Html)
+4. [CSS](#Css)
+5. [Javascript](#javascript)
+6. [React](#React)
+7. [Vue.js](#Vue.js)
+8. [Node.js](#Node.js)
+9. [MongoDb](#MongoDb)
+10. [PHP](#PHP)
+11. [Markdown](#Markdown)
+12. [Acessibility](#Acessibility)
+13. [Tools](#Tools)
+14. [Tutorials](#Tutorials)
+15. [Katas](#Katas)
+16. [API's](#Api's)
+17. [Design](#Design)
+18. [Ideas](#Ideas)
+20. [Podcasts](#Podcasts)
+
+
+## DOM
 
 - [MDN DOM Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-### HTML
+## Git/GitHub
+
+- [Git](https://git-scm.com/doc)
+- [Github](https://docs.github.com/en)
+
+  ### Guides
+  - [Commit style guidelines](https://github.com/needcaffeine/vicvijayakumar.com/blob/master/CONTRIBUTING.md) - Guidelines to write good commit messages.
+  - [Git/Github for beginners](https://dev.to/janetracydev/git-and-github-for-beginners-po3)
+  - [Learn Git](https://www.atlassian.com/git) - another git/github guide, this one more complete.
+  - [Git Concepts to know](https://dev.to/g_abud/advanced-git-reference-1o9j) - mores advance git concepts and tips.
+  - [Oh Shit Git](https://ohshitgit.com/)
+
+## HTML
 
 - [MDN HTML Reference](https://developer.mozilla.org/kab/docs/Web/HTML)
 - [MDN HTML Validator](https://validator.w3.org/)
 - [W3School HTML Reference](https://www.w3schools.com/html/default.asp)
 - [HTML best practices](https://www.themelocation.com/best-html5-practices/)
 
-### CSS
+## CSS
 
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [MDN CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -27,63 +60,88 @@ Another thing that I'm trying to achieve here is to make a map of the tech vocab
   - [Tailwind](https://tailwindcss.com/docs/installation)
   - [Tailwind Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet)
 
+  #### SASS
+  - [SASS](https://sass-lang.com/documentation)
+
+  ### Guides
+  - [Magic of CSS](https://adamschwartz.co/magic-of-css/) - a simple guide to CSS.
+  - [CSS Flex-Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
   #### Libraries
   - [bansal](https://bansal.io/pattern-css#introduction) - CSS only library to fill your empty background with beautiful patterns. 
-
-### JavaScript
+  
+## JavaScript
 
 - [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [W·School Reference](https://www.w3schools.com/js/default.asp)
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) 
 
+  ### Guides
+  - [Modern Javascript](https://javascript.info/)
+  - [Eloquent Javascript](https://eloquentjavascript.net/) - online book about the building blocks of JS
 
-### Git /GitHub
+  ### Testing
+  - [Jest](https://jestjs.io/docs/en/getting-started)
+  - [Jasmine](https://jasmine.github.io/pages/getting_started.html)
+  - [Cypress](https://www.cypress.io/)
 
-- [Git](https://git-scm.com/doc)
-- [Github](https://docs.github.com/en)
-- [Oh Shit Git](https://ohshitgit.com/)
-
-### SASS
-- [SASS](https://sass-lang.com/documentation)
-
-### React
+## React
 
 - [React](https://reactjs.org/docs/getting-started.html)
-- [React Router Web](https://reactrouter.com/web/guides/quick-start)
+- [React Router Web](https://reactrouter.com)
 
-### Vue
+  ### Guides
+   - [Opinionated React](https://opinionatedreact.com/) - This book is a personal map of the tips, power-ups and not-so-obvious solutions to common questions and problems that I've come across during 4 years of React development.
+
+## Vue.js
 - [Vue](https://vuejs.org/v2/guide/)
 - [Vue Router](https://router.vuejs.org/)
 - [Vuex](https://vuex.vuejs.org/guide/)
 - [Vue Style Guide](https://vuejs.org/v2/style-guide/)
 
-### MongoDb
+## Node.js
+- [Node.js](https://nodejs.org/en/about/)
+- [Learn Node.js](https://nodejs.dev/learn)
+
+  ### Framework
+  - [Express.js](https://expressjs.com)
+
+## MongoDb
 
 - [MongoDB](https://docs.mongodb.com/)
 
-### PHP
+  #### ODM
+   - [Mongoose](https://mongoosejs.com/docs/)
+
+## PHP
 - [PHP](https://www.php.net/docs.php)
 - [W3School PHP Reference](https://www.w3schools.com/html/default.asp)
 
-  #### Libraries
+  ### Testing
+   - [PHPUnit](https://phpunit.de/)
+
+  ### Libraries
   - [Faker](https://github.com/fzaninotto/Faker#formatters)
 
-### Laravel
+## Laravel
 - [Laravel](https://laravel.com/)
-- [Laravel Elqouent](https://laravel.com/docs/8.x/eloquent)
+- [Laravel Eloquent](https://laravel.com/docs/8.x/eloquent)
 - [Laravel Artisan](https://laravel.com/docs/8.x/artisan)
 - [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 
-### Markdown
+  ### Guide
+  - [Deploy a Laravel App on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel) - REST API tutorial.
+
+## Markdown
 
 - [MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [MD Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-## Best Practices / Guidelines
+## Best Practices
 
-- [9 Principles of responsive web-design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/).
 - [Planning a simple website](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements#Planning_a_simple_website)
-- [Commit style guidelines](https://github.com/needcaffeine/vicvijayakumar.com/blob/master/CONTRIBUTING.md) - Guidelines to write good commit messages.
+
 
 ## Acessibility
 
@@ -96,42 +154,15 @@ Another thing that I'm trying to achieve here is to make a map of the tech vocab
 - [Color Blind Web Page Filter](https://www.toptal.com/designers/colorfilter).
 - [Hex Naw](https://hexnaw.com/) - A color accessibility tool for designers and developers.
 
-## Testing
-
-### JavaScript
-
-- [Jest](https://jestjs.io/docs/en/getting-started)
-- [Jasmine](https://jasmine.github.io/pages/getting_started.html)
-- [Cypress](https://www.cypress.io/)
-
-### PHP
-- [PHPUnit](https://phpunit.de/)
-
 ## Tools
 - [Vscode](https://code.visualstudio.com/docs)
 - [GitKraken](https://www.gitkraken.com/)
 
-## Guides
+## Tutorials (Misc)
 
+- [Odin Project](https://www.theodinproject.com/paths) - a free full stack curriculum with different paths choices.
 - [Tania Rascia](https://www.taniarascia.com/guides) - loads of well explained guides from Git to Docker
-- [Magic of CSS](https://adamschwartz.co/magic-of-css/) - a simple guide to CSS.
-- [CSS Flex-Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Git/Github for beginners](https://dev.to/janetracydev/git-and-github-for-beginners-po3)
-- [Learn Git](https://www.atlassian.com/git) - another git/github guide, this one more complete.
-- [Git Concepts to know](https://dev.to/g_abud/advanced-git-reference-1o9j) - mores advance git concepts and tips.
-- [Opinionated React](https://opinionatedreact.com/) - This book is a personal map of the tips, power-ups and not-so-obvious solutions to common questions and problems that I've come across during 4 years of React development.
 - [REST API](https://restfulapi.net/) - REST API tutorial.
-- [Deploy a Laravel App on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel) - REST API tutorial.
-
-
-## Tutorials to try (to improve my skills)
-
-- [How to combine flexbox with CSS Grids](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/) - this will be useful since I never combine both flexbox and grid.
-- [Best Practices for Architecting Scalable and Maintainable Sass](https://www.youtube.com/watch?v=yg56jzcmnOY&list=PLVcEZG2JPVhc5GNgV_VQe80w-gJP_k3Ox&index=4) - to to have an idea of the best practices and also how to structure a project in a more efficient way.
-- [Hitesh Choudhary Youtube Channel](https://www.youtube.com/c/HiteshChoudharydotcom/playlists) - a channel with loads of tutorials from JS to Docker and Golang
-- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/playlists) - Another youtube channel with loads of tutorials.
-- [Academind](https://www.youtube.com/c/Academind/featured) - And another one :smile: 
 
 ## Katas
 Some sites to practice katas
@@ -150,6 +181,8 @@ List of cool Apis to use on a project
 - [Harvard Museum](https://harvardartmuseums.org/collections/api)
 
 ## Design
+
+- [9 Principles of responsive web-design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/).
 
 ### Prototyping
 - [Figma](https://www.figma.com)
@@ -205,12 +238,6 @@ Here I can find ideas and inspiration for buiding projects
 
 - [Coder Projects](http://googlecreativelab.github.io/coder-projects/) - cool projects to try when run out of ideas. Simple and beginner friendly.
 
-## Job Hunt
-
-Here everything that will help me to get a job: CV advice, job websites, interviewns tips, etc...
-
-- [How to craft the perfect Web-dev CV](https://www.smashingmagazine.com/2018/06/web-developer-resume/)
-
 ## Podcasts
 
 That will help me not just to learn more but also will help me build my tech vocabulary.
@@ -220,7 +247,5 @@ That will help me not just to learn more but also will help me build my tech voc
 - [Laravel PodCast](https://laravelpodcast.com/)
 - [Agile For Humans](https://ryanripley.com/agile-for-humans/)
 
-## Open-Source
 
-- [Open-Source Friday](https://opensourcefriday.com/)
 
